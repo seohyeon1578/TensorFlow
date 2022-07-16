@@ -10,6 +10,7 @@ tensorflow 책을 보면서 혼자 공부한 내용입니다.
 책 : 모두의 네트워크
 
 <img src="boock.jpg" width="150px">
+
 기간 : 7월11일 ~ 7월 15일
 - python_datatype.ipynb
 - numpyEx.ipynb
